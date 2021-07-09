@@ -57,6 +57,10 @@ What solution does this company offer that their competitors do not or cannot of
 
 *Stripe's target market includes both small startups and Fortune 500 giants looking for payments services. Stripe is reported to have more than 2 million customers worldwide.*
 
+*Stripe is leading online payment solutions ahead of their competitors because of its powerful, secure, and developer-friendly technology. Stripe can be added to any website, app, or checkout through user-friendly APIs. Stripe also has over 700 partner integrations.*
+
+*Advanced fraud protection, invoicing and billing software, international payment solutions, and B2B compatibility also push Stripe ahead of Square and PayPal.*
+
  
 
  **Which technologies are they currently using, and how are they implementing them?**
@@ -79,13 +83,27 @@ What solution does this company offer that their competitors do not or cannot of
 
  **What are the other major companies in this domain?**
 
+-PayPal
+
  *PayPal was the first major company in this domain which was adopted quickly by e-comemrce giants Amazon and eBay. PayPal is the most popular online payment processor capturing over 53% of the market share.*
+
+ *PayPal offers online checkout experiences, invoicing, and in-person payments best fit for ecommerce companies that need easy online payments.*
+
+-Square
 
  *San Francisco based startup Square brought payments innovation to the point of sale, allowing businesses with smaller transaction volumes to accept card payments with its card reader and mobile phone card reader. Square has expanded in recent years as they have integrated point of sale terminals, as well as a broader ecosystem of applications.*
 
+ *Square offers POS systems, online checkout experiences, and invoicing best fit for brick-and-mortar businesses.*
+
+-Adyen
+ 
  *Adyen is a Ducth payment company that allows businesses to accept e-commerce, mobile and point of ale payments.*
 
+ -2Checkout
+ 
  *2Checkout is an elctronic payment service that allows merchants to accept online credit card payments.*
+
+ *Stripe's main competitors are PayPal and Square,
 
  ### Results
 
@@ -99,13 +117,25 @@ What solution does this company offer that their competitors do not or cannot of
 
  **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
 
- *Companies in this domain track revenue per client
+ *Companies in this domain are very similar yet they focus on different areas in the domain.*
+
+ *Stripe is focused on larger businesses with a technical team or budget that don’t offer any in-person transactions.*
+  
+ *Square is focused on companies that run a brick and mortar store or work in mostly in-person transactions.*
+
+ *PayPal provides an easy and quick way to send and request money online. You can transfer money (abroad) to family, friends, online shops, and auction sites like eBay.*
 
  *As Stripe is very similar to PayPal and Square, stripe focuses more with e-commerce. According to eMarketer's, they estimate the global e-commerce market reached $4.3 trillion in 2020. Stripe states that only around 3% of total commerce occurs online.*
 
+ *All three are major competitors but yet measure success in a slighly different way*.
+
  **How is your company performing relative to competitors in the same domain?**
 
- *Stripe is valued at $95 billion, their valuation has increased by 54x since 2014. Since 2016 each year they have revenued $500m a year more than their previous year. In 2020 Stripes total revenue was $2.5 billion.*
+ *Stripe is valued at US$95 billion, their valuation has increased by 54x since 2014. Since 2016 each year they have revenued $500m a year more than their previous year. In 2020 Stripes total revenue was US$2.5 billion.*
+
+ *Square's market capitalizations is valued at over US$100 billion, their 2020 revenue was US$9.5 billion.*
+
+ *PayPal is valued at US$340 billion, their 2020 revenue was US$21.5 billion*
 
  ### Recommendations
 
@@ -121,7 +151,25 @@ What solution does this company offer that their competitors do not or cannot of
 
 *-Near-Field Communications*
 
+![mardown-image](NFC.jpg.webp)
+
+
 *-Blockchain*
+
+![mardown-image](blockchain.jpg)
+
+>“If you think of the kind of world that crypto people and we are trying to bring about, I think it’s a very related set of goals".
+“We are stuck down at this level where only a fifth of interactions are cross border,” he said. “Crypto is one very exciting direction for trying to solve that.” -
+John Collison.
+
+
+
+
+Wrapped BTC Now Holds More Than 1% of Bitcoin’s Circulating Supply
+Bitcoin is getting increasingly locked on Ethereum in the form of wrapped BTC, which now holds more than 1% of bitcoin's total circulating supply. This trend shows how savvy crypto traders are pivoting to salvage or maintain returns even as bitcoin's price tumbled. "The Hash" team discusses wrapped BTC gaining popularity and what this means for the bitcoin community.
+Volume 90%
+ 
+
 
 
 **Why are these technologies appropriate for your solution?**
